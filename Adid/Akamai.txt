@@ -1,0 +1,13 @@
+CDN – Content Distribution Network or Content Delivery Network is a solution that provides faster delivery of content to the users
+distributed worldwide. What is a CDN?
+A CDN is essentially a group of servers that are strategically placed across the globe with the purpose of accelerating the delivery
+of web content. A CDN-Manages servers that are geographically distributed over different locations.
+    Stores the web content in its servers(Store CASHED VERSION  of origional content).
+
+    Attempts to direct each user to a server that is part of the CDN so as to deliver content quickly.
+
+
+To minimize the distance between the visitors and your website’s server, a CDN stores a cached version of original content in multiple
+ geographical locations (a.k.a., points of presence/ PoPs). Each PoP contains a number of caching servers known as edge servers that are 
+responsible for content delivery to visitors within its proximity. CDN caches content in many places at once, ensuring quick delivery of 
+content.

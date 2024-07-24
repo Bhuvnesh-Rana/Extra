@@ -1,0 +1,21 @@
+grafana->
+
+Grafana is an open source interactive visualization web application. 
+It provides charts, graphs,dashbords and alerts for the web when connected to supported data source.
+
+grafan architect comprises of
+1. data prducer -->produces data to be visualised
+2. data source -->is a db connected to 1.-- 2 may pull data from 1. or 1. may push data to 2. it depends on 2.
+3. graf dasbod -->grafana queries the data src and data src returns requested data which then is displayed on grafana dasbod
+
+2 Type of data visualised in grafana i.e. matric data and log data
+****************************************************************************************************************************
+Prometheus is a free software application used for event monitoring and alerting. It records real-time metrics data in a time
+series database built using a HTTP pull model
+
+ELK stack
+Using  ELK Stack we can perform centralized logging which helps in identifying the problems with the web servers
+or applications. It lets you search through all the logs at a single place.
+
+kibana
+It helps in visualizing the data that is piped down by the Logstash and is stored into the Elasticsearch

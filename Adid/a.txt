@@ -1,0 +1,8 @@
+agile proj management tool
+
+
+
+DevOps is a software development methodology through which there is seamless collaboration between Development team
+ & Operations team with the help of which you can develop superior quality software quickly 
+and with more reliability. It consists of various stages such as continuous development, continuous integration,
+ continuous testing, continuous deployment, and continuous monitoring.

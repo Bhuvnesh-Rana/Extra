@@ -1,0 +1,18 @@
+jira 			kanban board-visualise issues (backlog,todo,done)
+1. ticketing tool
+2. used for tracking and reporting/ maintain a track of everything(MTTR,MTTE,MTTD)mean time to resolve,engage,detect
+3. Filters issues(tickets) using jql
+4. monitering tool(instana)--> opsgenie --> jira ticket(p1,--,p4)
+Types of tickets (Issue Type)
+1.incidents- any disruption of service 
+2.service request- data request sobody asking for data
+3.problem- incosistency in service for a perticular time causing abnormality in service --to be investigated
+4.event- *problem for 5 min
+5.user stories 6.epics 7.improvment 8.tasks 9.defects
+
+
+
+opsgenie - used to maintain alerts /mail concerned team or sent to jira for ticket
+instana - real time people hitting--appl performance management tool
+aplln monitering & is installed in host and moniters many tech stack	    (API)
+runscope/blaze meter-synthetic monitering hitting appl on ur own/hitting a service in a time interval & on error sent to opsg
